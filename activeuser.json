@@ -1,6 +1,13 @@
 [
     {
-        "device_id": "bee1ad8067c534f3",
+        "device_id": "6ffc886a8bd98ef5",
+        "username": "ROLEXUSER1",
+        "password": "0001",
+        "expirydate": "15-9-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "6ffc886a8bd98ef5",
         "username": "CRUSHAX4",
         "password": "8899",
         "expirydate": "15-9-2025",
