@@ -1,5 +1,12 @@
 [
     {
+        "device_id": "1d0b6899c0d55d23",
+        "username": "CRUSHAX3",
+        "password": "7812",
+        "expirydate": "15-9-2025",
+        "Allowoffline": true
+    },
+    {
         "device_id": "37aaace7011b2f89",
         "username": "CRUSHAX2",
         "password": "7898",
