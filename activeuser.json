@@ -1,5 +1,12 @@
 [
     {
+        "device_id": "5955434a8e0d8b44",
+        "username": "H4X1",
+        "password": "1212",
+        "expirydate": "30-9-2025",
+        "Allowoffline": true
+    },
+    {
         "device_id": "6ffc886a8bd98ef5",
         "username": "ROLEXUSER1",
         "password": "0001",
