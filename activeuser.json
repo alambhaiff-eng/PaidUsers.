@@ -1,51 +1,9 @@
 [
     {
-        "device_id": "5955434a8e0d8b44",
-        "username": "H4X1",
-        "password": "1212",
-        "expirydate": "30-9-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "6ffc886a8bd98ef5",
-        "username": "ROLEXUSER1",
-        "password": "0001",
-        "expirydate": "15-9-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "bee1ad8067c534f3",
-        "username": "CRUSHAX4",
-        "password": "8899",
-        "expirydate": "15-9-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "1d0b6899c0d55d23",
-        "username": "CRUSHAX3",
-        "password": "7812",
-        "expirydate": "15-9-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "37aaace7011b2f89",
-        "username": "CRUSHAX2",
-        "password": "7898",
-        "expirydate": "18-9-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "37aaace7011b2f89",
-        "username": "CRUSHAX1",
-        "password": "9090",
-        "expirydate": "14-9-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "def61532c65c7a6e",
-        "username": "H4X",
-        "password": "1212",
-        "expirydate": "30-12-2025",
+        "device_id": "device123",
+        "username": "user1",
+        "password": "pass123",
+        "expirydate": "31-12-2025",
         "Allowoffline": true
     },
     {
