@@ -1,8 +1,8 @@
 [
     {
         "device_id": "84893171c75de4d3",
-        "username": "AX2",
-        "password": "AX2",
+        "username": "AX12",
+        "password": "AX122",
         "expirydate": "31-11-2025",
         "Allowoffline": true
     },
@@ -10,13 +10,6 @@
         "device_id": "c444328db0e11cb6",
         "username": "11p",
         "password": "11p",
-        "expirydate": "31-11-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "84",
-        "username": "Hxhhc1X",
-        "password": "1xuux",
         "expirydate": "31-11-2025",
         "Allowoffline": true
     },
