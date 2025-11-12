@@ -1,5 +1,12 @@
 [
     {
+        "device_id": "39f84b400f55afdd",
+        "username": "EG10",
+        "password": "VIP10",
+        "expirydate": "22-11-2025",
+        "Allowoffline": true
+    },
+    {
         "device_id": "5d66bda99ce9b61f",
         "username": "EG9",
         "password": "VIP9",
