@@ -1,86 +1,9 @@
 [
     {
-        "device_id": "63befea7f13fb2ed",
-        "username": "EG11",
-        "password": "VIP11",
-        "expirydate": "23-11-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "39f84b400f55afdd",
-        "username": "EG10",
-        "password": "VIP10",
-        "expirydate": "22-11-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "5d66bda99ce9b61f",
-        "username": "EG9",
-        "password": "VIP9",
-        "expirydate": "14-11-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "565bff6798d26cdc",
-        "username": "EG8",
-        "password": "VIP8",
-        "expirydate": "13-11-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "d719d4a047cb2936",
-        "username": "EG7",
-        "password": "VIP7",
-        "expirydate": "13-11-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "24713fcc4a841680",
-        "username": "EG6",
-        "password": "VIP6",
-        "expirydate": "13-11-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "f8f1a5427ff104ea",
-        "username": "EG5",
-        "password": "VIP5",
-        "expirydate": "13-11-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "86c9aaf29488b91d",
-        "username": "EG4",
-        "password": "VIP4",
-        "expirydate": "12-11-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "c791cb4b1dcafc38",
-        "username": "EG3",
-        "password": "VIP3",
-        "expirydate": "12-11-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "9166e505e0f34211",
-        "username": "EG1",
-        "password": "VIP1",
-        "expirydate": "12-11-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "84893171c75de4d3",
-        "username": "AX12",
-        "password": "AX122",
-        "expirydate": "31-11-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "c444328db0e11cb6",
-        "username": "11p",
-        "password": "11p",
-        "expirydate": "31-11-2025",
+        "device_id": "device123",
+        "username": "user1",
+        "password": "pass123",
+        "expirydate": "31-12-2025",
         "Allowoffline": true
     },
     {
