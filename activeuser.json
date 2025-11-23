@@ -1,5 +1,12 @@
 [
     {
+        "device_id": "def61532c65c7a6e",
+        "username": "CRUSHAX",
+        "password": "100K",
+        "expirydate": "28-12-2025",
+        "Allowoffline": true
+    },
+    {
         "device_id": "f6fc05c735bb0ce7",
         "username": "LK12",
         "password": "VIP12",
@@ -59,13 +66,6 @@
         "device_id": "d4e636280eb89a58",
         "username": "Rohan",
         "password": "Rohan15days",
-        "expirydate": "1-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "a9708e9becf96146",
-        "username": "Shakil",
-        "password": "Shakil987",
         "expirydate": "1-12-2025",
         "Allowoffline": true
     },
