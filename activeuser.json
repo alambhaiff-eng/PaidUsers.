@@ -1,5 +1,12 @@
 [
     {
+        "device_id": "78757d9e722e26da",
+        "username": "LK13",
+        "password": "VIP13",
+        "expirydate": "2-12-2025",
+        "Allowoffline": true
+    },
+    {
         "device_id": "def61532c65c7a6e",
         "username": "CRUSHAX",
         "password": "100k",
